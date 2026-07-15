@@ -11,3 +11,5 @@ dist/
 *.egg-info/
 .venv/
 venv/
+*.user
+CMakeUserPresets.json
