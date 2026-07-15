@@ -1,0 +1,17 @@
+# Copyright (c) 2026 Fintel IT Solutions LLC. All Rights Reserved.
+
+[project]
+name = "fintel-forgecad"
+version = "0.1.0"
+description = "Fintel ForgeCAD — Autonomous AI Engineering CAD Platform"
+readme = "README.md"
+license = { text = "Proprietary" }
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+api = ["fastapi>=0.115.0", "uvicorn[standard]>=0.32.0", "pydantic>=2.0.0"]
+dev = ["pytest>=8.0.0", "pytest-asyncio>=0.24.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
