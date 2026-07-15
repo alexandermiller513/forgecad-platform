@@ -1,8 +1,8 @@
 {
-  "name": "@fintel/forgecad-ui",
+  "name": "@fintelit/forgecad-ui",
   "version": "0.1.0",
   "private": true,
-  "description": "Fintel ForgeCAD — Autonomous AI Engineering CAD Platform UI",
+  "description": "Fintel IT ForgeCAD — Autonomous AI Engineering CAD Platform UI",
   "license": "UNLICENSED",
   "scripts": {
     "dev": "vite",

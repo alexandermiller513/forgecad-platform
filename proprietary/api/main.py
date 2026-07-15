@@ -1,12 +1,12 @@
 # Copyright (c) 2026 Fintel IT Solutions LLC. All Rights Reserved.
 
-"""FastAPI backend for Fintel ForgeCAD."""
+"""FastAPI backend for Fintel IT ForgeCAD."""
 
 from fastapi import FastAPI
 from pydantic import BaseModel
 
 app = FastAPI(
-    title="Fintel ForgeCAD API",
+    title="Fintel IT ForgeCAD API",
     description="Autonomous AI Engineering CAD Platform",
     version="0.1.0",
 )

@@ -1,6 +1,6 @@
 # Copyright (c) 2026 Fintel IT Solutions LLC. All Rights Reserved.
 
-"""Integration tests for Fintel ForgeCAD platform layers."""
+"""Integration tests for Fintel IT ForgeCAD platform layers."""
 
 import importlib.util
 import sys

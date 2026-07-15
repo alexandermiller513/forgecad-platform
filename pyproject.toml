@@ -1,9 +1,9 @@
 # Copyright (c) 2026 Fintel IT Solutions LLC. All Rights Reserved.
 
 [project]
-name = "fintel-forgecad"
+name = "fintelit-forgecad"
 version = "0.1.0"
-description = "Fintel ForgeCAD — Autonomous AI Engineering CAD Platform"
+description = "Fintel IT ForgeCAD — Autonomous AI Engineering CAD Platform"
 readme = "README.md"
 license = { text = "Proprietary" }
 requires-python = ">=3.11"

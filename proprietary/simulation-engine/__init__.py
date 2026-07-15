@@ -1,3 +1,3 @@
 # Copyright (c) 2026 Fintel IT Solutions LLC. All Rights Reserved.
 
-"""Fintel ForgeCAD Simulation Engine."""
+"""Fintel IT ForgeCAD Simulation Engine."""
