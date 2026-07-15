@@ -1,10 +1,10 @@
-# Fintel ForgeCAD
+# Fintel IT ForgeCAD
 
 Autonomous AI Engineering CAD Platform
 
 **Copyright (c) 2026 Fintel IT Solutions LLC. All Rights Reserved.**
 
-Fintel ForgeCAD is a proprietary autonomous CAD engineering platform developed by Fintel IT Solutions LLC. The platform combines AI-driven design agents, a domain-specific CAD language, and enterprise-grade engineering workflows.
+Fintel IT ForgeCAD is a proprietary autonomous CAD engineering platform developed by Fintel IT Solutions LLC. The platform combines AI-driven design agents, a domain-specific CAD language, and enterprise-grade engineering workflows.
 
 ## Architecture
 

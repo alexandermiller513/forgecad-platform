@@ -17,5 +17,5 @@ class GPTAgent:
         self._model = model
 
     async def run(self, prompt: str) -> str:
-        system = "You are a CAD engineering assistant for Fintel ForgeCAD."
+        system = "You are a CAD engineering assistant for Fintel IT ForgeCAD."
         return await self._provider.complete(prompt, system=system)
